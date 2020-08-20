@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1597565460 source:e:\cb\unit test\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1597565460 e:\cb\unit test\unity\unity.h
+	"unity_internals.h"
+
+1597565460 e:\cb\unit test\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597686433 source:e:\cb\unit test\main.c
+	"test/P_test.h"
+
+1597686433 e:\cb\unit test\test\p_test.h
+
+1597687240 source:e:\cb\unit test\test\primetest.c
+	<stdbool.h>
+	"E:\CB\Unit test\unity\unity.h"
+	"E:\CB\Unit test\inc\pno.h"
+
+1597686463 e:\cb\unit test\inc\pno.h
+
+1597687240 source:e:\cb\unit test\src\prime number.c
+	<stdio.h>
+	<stdbool.h>
+	"E:\CB\Unit test\inc\pno.h"
+
